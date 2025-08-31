@@ -118,7 +118,7 @@ pip install -r requirements.txt
     pyinstaller --noconfirm --onefile --windowed main.py
     ```
   - After building, you’ll find the .exe inside dist/main.exe. Double-click -> results in a true desktop app.
-
+----
 - ⚠️ Notes
 
   - Local models require significant RAM/GPU. If limited, prefer OpenAI API.
