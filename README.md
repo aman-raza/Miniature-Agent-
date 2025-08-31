@@ -107,7 +107,7 @@ pip install -r requirements.txt
   │── .env              # API keys (optional, for OpenAI)
   │── README.md         # this file
   ```
-- (Optional) Create a desktop `.exe` app
+## 8. (Optional) Create a desktop `.exe` app
   - Install pyinstaller and pywebview
     ```
     pip install pywebview
