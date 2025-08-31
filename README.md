@@ -107,6 +107,17 @@ pip install -r requirements.txt
   │── .env              # API keys (optional, for OpenAI)
   │── README.md         # this file
   ```
+- (Optional) Create a desktop `.exe` app
+  - Install pyinstaller and pywebview
+    ```
+    pip install pywebview
+    pip install pyinstaller
+    ```
+  - Build `.exe`
+    ```
+    pyinstaller --noconfirm --onefile --windowed main.py
+    ```
+  - After building, you’ll find the .exe inside dist/main.exe. Double-click -> results in a true desktop app.
 
 - ⚠️ Notes
 
