@@ -64,7 +64,7 @@ pip install -r requirements.txt
 - Start the app:
 
   ```bash
-  python app.py
+  python my_agent.py
   ```
 
 ## 6. Gradio will launch at:
