@@ -102,7 +102,7 @@ pip install -r requirements.txt
 - Project Structure
   ```bash
   coding-agent/
-  │── app.py            # main script (run this)
+  │── my_agent.py            # main script (run this)
   │── requirements.txt  # dependencies
   │── .env              # API keys (optional, for OpenAI)
   │── README.md         # this file
