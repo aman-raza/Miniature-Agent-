@@ -23,7 +23,7 @@ Built entirely in **Python** with a sleek **Gradio web UI**.
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/yourusername/coding-agent.git
+git clone [https://github.com/aman-raza/.git](https://github.com/aman-raza/Miniature-Agent-.git)
 cd coding-agent
 ```
 
