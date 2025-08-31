@@ -1,0 +1,5 @@
+openai
+transformers
+accelerate
+gradio
+python-dotenv
