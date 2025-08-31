@@ -24,7 +24,7 @@ Built entirely in **Python** with a sleek **Gradio web UI**.
 ### 1. Clone the repo
 ```bash
 git clone https://github.com/aman-raza/Miniature-Agent-.git
-cd coding-agent
+cd Miniature-Agent-
 ```
 
 ## 2. Create a virtual environment
